@@ -185,7 +185,6 @@ public class MainActivity extends Activity {
                     timer.cancel();
                     timer = null;
                 }
-
             }
         });
         //播放操作
