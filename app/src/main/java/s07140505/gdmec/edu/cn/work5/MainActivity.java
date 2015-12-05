@@ -119,7 +119,6 @@ public class MainActivity extends Activity {
                 if (timer != null) {
                     timer.cancel();
                     timer = null;
-
                 }
             }
         });
